@@ -7,6 +7,7 @@
       "sslPort": 44389
     }
   },
+  //profiles: set the details in different situation when we run the project
   "profiles": {
     "IIS Express": {
       "commandName": "IISExpress",
